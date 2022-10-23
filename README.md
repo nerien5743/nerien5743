@@ -1,6 +1,10 @@
 # 네리엔 | ねりえん | nerien
-안녕하세요. 아무튼 이것저것 하고 있는 네리엔입니다.
-# Contacts
+👋 언녕하세요. 아무튼 이것저것 하고 있는 네리엔입니다.<br>
+👋 初めまして、なんとなくいろんなことしてるねりえんです。<br>
+# 소속
+- SPACELAKE
+- JEJU FOREIGN LANGUAGE HIGH SCHOOL 18J (日本語科)
+# 연락하기
 - Discord 네리엔#5743
 - Email nerien5743@spacelake.net
 - Phone (KR) +82 70-7847-5743
