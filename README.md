@@ -10,5 +10,5 @@
 - Phone (KR) +82 70-7847-5743
 - Phone (JP) +81 50-5534-9367
 # 후원하기
-- https://toss.me/nerien5743
-- https://donate.stripe.com/5kAbML2Eg2eu74s289
+- Toss ID (Korea) https://toss.me/nerien5743
+- Stripe (International) https://donate.stripe.com/5kAbML2Eg2eu74s289
