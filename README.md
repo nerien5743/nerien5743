@@ -7,5 +7,5 @@
 - JEJU FOREIGN LANGUAGE HIGH SCHOOL 18J (日本語科)
 # 연락하기
 - Email nryneri57@naplat.kr
-# 후원하기
-- 미지원
+- Phone (+82) 070-7174-2376
+- ChannelTalk https://naplat.channel.io/
