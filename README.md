@@ -9,3 +9,4 @@
 - Email nryneri57@naplat.kr
 - Phone (+82) 070-7174-2376
 - ChannelTalk https://naplat.channel.io/
+- Discord tworld.co.kr
