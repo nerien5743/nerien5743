@@ -3,7 +3,7 @@
 👋 はじめまして、なんとなくいろんなことしてるねりえんです。<br>
 # 소속
 - 엔에이플랫 (NaPlat)
-- SPACELAKE, Inc. (주식회사 스페이스레이크, US)
+- SPACELAKE Inc. (주식회사 스페이스레이크, US)
 - JEJU FOREIGN LANGUAGE HIGH SCHOOL 18J (日本語科)
 # 연락하기
 - Email nryneri57@naplat.kr
