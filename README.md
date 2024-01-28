@@ -1,5 +1,5 @@
 ## 소속 ORGANIZATION
-- 유한책임회사 엔에이플랫 (NaPlat LLC.) ['엔에이플랫'에서 법인으로 전환] - 2024년 01월부터 대표로 재직 중
+- 유한책임회사 엔에이플랫 대표 (NaPlat LLC. / CEO)
 ## 경력 CAREER
 - YouTube 채널 '네리엔 채널' 운영
 - 제주도 정보 사이트 'JEJU.PAGE' 총괄관리자
