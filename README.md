@@ -27,11 +27,6 @@
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
 
 <br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nerien5743&theme=radical" alt="streak" />
-</div>
-
 ---
 
 ### 🔗 Connect with Me
