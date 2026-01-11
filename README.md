@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Neri Sakui!
+# Hi there 👋
 
 ### 👨‍💼 Professional Experience
 - 🏢 **CEO** at **NetorCreative Co., Ltd.** (주식회사 네터크리에이티브)
