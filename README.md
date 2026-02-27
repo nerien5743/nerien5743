@@ -32,6 +32,6 @@
 
 <a href="mailto:sngmin05@naplat.co.kr"><img src="https://img.shields.io/badge/Email-sngmin05%40naplat.co.kr-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
-<img src="https://img.shields.io/badge/Discord-tworld.co.kr-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+<img src="https://img.shields.io/badge/Discord-mineriru-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 
 <a href="https://discord.gg/jeju"><img src="https://img.shields.io/badge/Discord_Server-귤섭컬 커뮤니티-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
