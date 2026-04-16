@@ -30,7 +30,7 @@
 
 ### 🔗 Connect with Me
 
-<a href="mailto:sngmin05@naplat.co.kr"><img src="https://img.shields.io/badge/Email-sngmin05%40naplat.co.kr-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:mochi@mineri.studio"><img src="https://img.shields.io/badge/Email-mochi@mineri.studio-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 <img src="https://img.shields.io/badge/Discord-mineriru-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 
