@@ -1,8 +1,7 @@
 # Hi there 👋
 
-### 👨‍💼 Professional Experience
+### 👨‍💼 I am...
 - 🏢 **CEO** at **NetorCreative Co., Ltd.** (주식회사 네터크리에이티브)
-- 🏢 **CEO** at **NaPlat LLC.** (유한책임회사 엔에이플랫)
 
 ---
 
