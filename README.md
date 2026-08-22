@@ -1,12 +1,12 @@
 # Hi there 👋
 
 ### 👨‍💼 I am...
-- 🏢 **CEO** at **NetorCreative Co., Ltd.** (주식회사 네터크리에이티브)
+- 🏢 **CEO** @ **NETOR Corp.** (네터 주식회사)
 
 ---
 
 ### 🚀 About Me
-- 🔭 **친절한 기술**을 만드는 스타트업을 운영합니다.
+- 🔭 **친절한 기술**을 만드는 스타트업을 만듭니다.
 - 📫 언제든 연락 주세요!
 
 ---
@@ -31,6 +31,6 @@
 
 <a href="mailto:mochi@mineri.studio"><img src="https://img.shields.io/badge/Email-mochi@mineri.studio-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
-<img src="https://img.shields.io/badge/Discord-mineriru-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+<img src="https://img.shields.io/badge/Discord-yune.yune-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 
 <a href="https://discord.gg/jeju"><img src="https://img.shields.io/badge/Discord_Server-귤섭컬 커뮤니티-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
