@@ -1,13 +1,13 @@
 # Hi there 👋
 
 ### 👨‍💼 I am...
-- 🏢 **CEO** @ **NETOR Corp.** (네터 주식회사)
+- 🏢 **Solopreneur CEO** @ **YUCO HOUSE Inc.**
 
 ---
 
 ### 🚀 About Me
-- 🔭 **친절한 기술**을 만드는 스타트업을 만듭니다.
-- 📫 언제든 연락 주세요!
+- 🔭 **優しく届ける**スタートアップ企業をやっていきます。
+- 📫 いつでも連絡お願いしますー！
 
 ---
 
@@ -29,8 +29,8 @@
 
 ### 🔗 Connect with Me
 
-<a href="mailto:mochi@mineri.studio"><img src="https://img.shields.io/badge/Email-mochi@mineri.studio-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:eno.haru@yune.house"><img src="https://img.shields.io/badge/Email-eno.haru@yune.house-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
-<img src="https://img.shields.io/badge/Discord-yune.yune-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+<img src="https://img.shields.io/badge/Discord-eno.haru-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 
-<a href="https://discord.gg/jeju"><img src="https://img.shields.io/badge/Discord_Server-귤섭컬 커뮤니티-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://discord.gg/jeju"><img src="https://img.shields.io/badge/Discord_Server-YUCO HOUSE-FFEBF2?style=for-the-badge&logo=discord&logoColor=white"></a>
