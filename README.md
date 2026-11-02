@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ### 👨‍💼 I am...
-- 🏢 **Solopreneur CEO** @ **YUCO HOUSE Inc.**
+- 🏢
 
 ---
 
