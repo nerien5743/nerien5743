@@ -6,8 +6,7 @@
 ---
 
 ### 🚀 About Me
-- 🔭 **優しく届ける**スタートアップ企業をやっていきます。
-- 📫 いつでも連絡お願いしますー！
+- 🔭
 
 ---
 
@@ -29,8 +28,8 @@
 
 ### 🔗 Connect with Me
 
-<a href="mailto:eno.haru@yune.house"><img src="https://img.shields.io/badge/Email-eno.haru@yune.house-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:enoharu7@gmail.com"><img src="https://img.shields.io/badge/Email-eno.haru@yune.house-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 <img src="https://img.shields.io/badge/Discord-eno.haru-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 
-<a href="https://discord.gg/jeju"><img src="https://img.shields.io/badge/Discord_Server-YUCO HOUSE-FFEBF2?style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://discord.gg/yuco"><img src="https://img.shields.io/badge/Discord_Server-YUCO HOUSE-FFEBF2?style=for-the-badge&logo=discord&logoColor=white"></a>
